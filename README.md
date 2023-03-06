@@ -55,4 +55,4 @@ The script also supports filtering on SSID name, band (2.4, 5 and 6) and AP Tags
 3. Run script with `python main.py`
 4. The script will output a set of `.csv` files for every statistic collected, as well as graphs in `.png` format for every statistic
 
-![image alt text](images/client_counts_df_2023-02-27T00-00-00_1day_Tag-All_Band-All_SSID-All.png)
+![image alt text](sample_output_files/client_counts_df_2023-02-27T00-00-00_1day_Tag-All_Band-All_SSID-All.png)
