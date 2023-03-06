@@ -1,0 +1,14 @@
+API_KEY=''
+analytics_tag = 'merakiAnalytics'
+year=2023
+month=2
+day=27
+step = 3600
+num_days = 1
+ap_tag = ''
+band = ''
+ssid = ''
+net_id = ""
+console_logging=True
+max_retries=100
+max_requests=10
