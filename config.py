@@ -1,5 +1,4 @@
 API_KEY=''
-analytics_tag = 'merakiAnalytics'
 year=2023
 month=2
 day=27
